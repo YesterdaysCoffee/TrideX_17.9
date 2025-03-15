@@ -1,0 +1,52 @@
+6mm belt elevation notes
+
+
+top X belt smooth idler 14 mm .5mm washers + .0 cushion
+375.8	box top +0.6
+375.2	fork top +4.8
+370.4	pully box top +2.4
+368	belt top 
+362	belt bottom
+359.6	pully box bottom -2.4
+354.8	fork bottom -4.8
+354.2	box bottom -0.6
+
+bottom X belt tooth idler 13.8mm 1mm washers + .2 cushion
+
+365.8	box top +0.6
+365.2	fork top +4.8
+360.4	pully box top +2.4
+358	belt top  
+352	belt bottom
+349.6	pully box bottom -2.4
+347.2	fork bottom -4.8
+346.6	box bottom -0.6
+ 
+
+Bottom of Y mgn9 carriage: Z 340
+
+Y belts right and left
+	box top +0.6
+	fork top +4.8
+	pully box top +2.4
+333.2	belt top
+327.2	belt bottom
+	pully box bottom -2.4
+	fork bottom -4.8
+	box bottom -0.6
+
+
+4.8
+10.3
+4.8
+
+
+fork box height 21.6
+ID 11
+OD 20.6
+
+idler box height 22
+pully box height 11
+
+rail cross section
+85
