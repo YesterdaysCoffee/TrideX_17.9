@@ -1,5 +1,5 @@
 # TrideX_17.9
-An IDEX 3D printer based on the venerable Trident by Voron Design.  With a fixed gantry modified CoreXY.
+An IDEX 3D printer based on the venerable Trident by Voron Design.  Design allows for higher tension belts and higher print head speeds. Frame size and skirts are new, full use of build plate with extra space in rear for accessories.
 
 ## Features:
 - Adjustable height toolheads
@@ -8,20 +8,26 @@ An IDEX 3D printer based on the venerable Trident by Voron Design.  With a fixed
 - Simplified belt threading with easy to assemble belt tensioners
 - 9mm X & Y Belts
 - 4 NEMA 17's powering X & Y axis
+- Full use of build plate when using print heads 65mm or narrower.
 
 ## Optional:
 - Re-use your Trident Z-drive leadscrews
 - Or use Belted Z-drives derived from the VORON 2.4.
-
+- Toolhead:
+-   An adaptor for the Dragon burner tool head is provided.  Please use the cowling published here.
+-   I might provide an adaptor for the Anthead in the future, this depends on if anyone requests it.
+  
 ## Bed Sizes:
 - 200mm x 200mm (available space for exectronics needs to be verified)
 - 250mm x 250mm (my preferred size)
 - 300mm x 300mm
 - 350mm x 350mm  (caution, the x axis may be too long)
 
-## Still Under Construction:
-Yes, some stuff is missing.  Things like a CAD file, BOM, skirts and electronics layout need to be finalized and uploaded.  
-Subscribe to this page and you'll be notified of changes.
+## [The BOM is here:]( https://docs.google.com/spreadsheets/d/e/2PACX-1vTi7BXCdwXABu654JJwkuEAczqV8oCrgSzs1avbypUe_aI0Z33wDMpEZaGW98XtweH8u0fsfI44mL3v/pubhtml )
+The BOM does not list electronics or tool head hardware (yet).
+
+## Future stuff:
+Better images, construction notes, etc.  It all depends on what you, the user, ask for.
 
 ## Comments, want to help?
 I depend on your comments to continue delopement.  If you: 
