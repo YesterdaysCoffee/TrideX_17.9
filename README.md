@@ -1,8 +1,8 @@
 # TrideX_17.9
 An IDEX 3D printer based on the venerable Trident by Voron Design.  Design allows for higher tension belts and higher print head speeds. Frame size and skirts are new, full use of build plate with extra space in rear for accessories.
 
-![image](Images/Belted%20Belted_Z(Small).png "Belted Z")
-![image](Images/leadscrew_Z_(Small).png "Leadscrew Z")
+![image](Images/Belted_Z(Small).png "Belted Z")
+![image](Images/leadscrew_Z%20(Small).png "Leadscrew Z")
 ## Features:
 - Adjustable height toolheads
 - Shoulder bolts support all bearing stacks
