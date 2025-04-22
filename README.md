@@ -1,8 +1,8 @@
 # TrideX_17.9
 An IDEX 3D printer based on the venerable Trident by Voron Design.  Design allows for higher tension belts and higher print head speeds. Frame size and skirts are new, full use of build plate with extra space in rear for accessories.
 
-![image](Images/Belted%20Z.png "Belted Z")
-![image](Images/leadscrew_Z.png "Leadscrew Z")
+![image](Images/Belted%20Z(Small).png "Belted Z")
+![image](Images/leadscrew_Z(Small).png "Leadscrew Z")
 ## Features:
 - Adjustable height toolheads
 - Shoulder bolts support all bearing stacks
@@ -12,7 +12,7 @@ An IDEX 3D printer based on the venerable Trident by Voron Design.  Design allow
 - 4 NEMA 17's powering X & Y axis
 - Full use of build plate when using print heads 65mm or narrower.
 
-![image](Images/belt_clamp,_adaptor_and_dragon_burner.png "belt_clamp,_adaptor_and_dragon_burner")
+![image](Images/belt_clamp,_adaptor_and_dragon_burner(Small).png "belt_clamp,_adaptor_and_dragon_burner")
 
 ## Optional:
 - Re-use your Trident Z-drive leadscrews
@@ -42,4 +42,4 @@ I depend on your comments to continue delopement.  If you:
 - or want to help? (documentation is not my strong suit)
 Please drop a line and let me know, thanks.
 email: macmccaskie@yahoo.com
-![image](Images/XY_ideler_and_belt_tensioners.png "XY_ideler_and_belt_tensioners")
+![image](Images/XY_ideler_and_belt_tensioners(Small).png "XY_ideler_and_belt_tensioners")
