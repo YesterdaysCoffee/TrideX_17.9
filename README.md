@@ -1,5 +1,5 @@
 # TrideX_17.9
-An IDEX 3D printer based on the venerable Trident by Voron Design.  With a fixed gantry modified CoreXY.
+An IDEX 3D printer based on the venerable Trident by Voron Design.  Design allows for higher tension belts and higher print head speeds. Frame size and skirts are new, full use of build plate with extra space in rear for accessories.
 
 ## Features:
 - Adjustable height toolheads
@@ -8,6 +8,7 @@ An IDEX 3D printer based on the venerable Trident by Voron Design.  With a fixed
 - Simplified belt threading with easy to assemble belt tensioners
 - 9mm X & Y Belts
 - 4 NEMA 17's powering X & Y axis
+- Full use of build plate when using print heads 65mm or narrower.
 
 ## Optional:
 - Re-use your Trident Z-drive leadscrews
