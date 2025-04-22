@@ -41,4 +41,5 @@ I depend on your comments to continue delopement.  If you:
 - have a feature request
 - or want to help? (documentation is not my strong suit)
 - Please drop a line and let me know, email: macmccaskie@yahoo.com
+- 
 ![image](Images/XY_ideler_and_belt_tensioners(Small).png "XY_ideler_and_belt_tensioners")
