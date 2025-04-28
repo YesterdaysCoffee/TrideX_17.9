@@ -32,8 +32,12 @@ An IDEX 3D printer based on the venerable Trident by Voron Design.  Design allow
 The BOM does not list electronics or tool head hardware.
 
 ## Future stuff:
-- Fold out Deck (STLs from TrideX_17 will work)
-- construction notes, etc.  
+- Fold out Deck (STLs copied from [TrideX_17]( YesterdaysCoffee/TrideX_17 ))
+- construction notes, etc.
+- Interior spool holders
+- Filament tube fixtures and path design for spool holders
+- Fixtures for overhead umbilical carrier (currently labeled experimental)
+- Other wire and umbilical management structures.
 It all depends on what you, the user, ask for.
 
 ## Comments, want to help?
