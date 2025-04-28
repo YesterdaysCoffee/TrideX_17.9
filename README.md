@@ -40,7 +40,7 @@ The BOM does not list electronics or tool head hardware.
 - Other wire and umbilical management structures.
 It all depends on what you, the user, ask for.
 
-## Comments, want to help?
+## Comments, gripes, brick bats, praise, flames:
 I depend on your comments to continue developement.  If you: 
 - built it
 - loved or hated it
