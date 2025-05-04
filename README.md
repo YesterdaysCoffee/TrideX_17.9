@@ -11,7 +11,7 @@ An IDEX 3D printer based on the venerable Trident by Voron Design.  Design allow
 - 9mm X & Y Belts
 - 4 NEMA 17's powering X & Y axis
 - Full use of build plate when using print heads 65mm or narrower.
-- Electronics bay accessable from inside chamber.  Deck will lift out and fold for easy access.
+- Electronics bay accessible from inside chamber.  Deck will lift out and fold for easy access.
 
 ![image](Images/belt_clamp,_adaptor_and_dragon_burner(Small).png "belt_clamp,_adaptor_and_dragon_burner")
 
@@ -19,11 +19,11 @@ An IDEX 3D printer based on the venerable Trident by Voron Design.  Design allow
 - Re-use your Trident Z-drive leadscrews
 - Or use Belted Z-drives derived from the VORON 2.4.
 - A Toolhead Adaptor is required:
-  - The adaptor for DragonBurner is provided.  Please use the cowling published here.
+  - The adaptor for Dragon Burner is provided.  Please use the cowling published here.
   - An Anthead adaptor is possible, this depends on if anyone requests it.
   
 ## Bed Sizes:
-- 200mm x 200mm (available space for exectronics needs to be verified)
+- 200mm x 200mm (available space for electronics needs to be verified)
 - 250mm x 250mm (my preferred size)
 - 300mm x 300mm
 - 350mm x 350mm  (caution, the x axis may be too long)
@@ -41,7 +41,7 @@ The BOM does not list electronics or tool head hardware.
 It all depends on what you, the user, ask for.
 
 ## Comments, gripes, brick bats, praise, flames:
-I depend on your comments to continue developement.  If you: 
+I depend on your comments to continue development.  If you: 
 - built it
 - loved or hated it
 - found flaws
